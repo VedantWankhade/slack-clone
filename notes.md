@@ -18,13 +18,14 @@
 * ## UI Components
     * Sign Up
     * Sign In
-    * Sidebar
-      * List of Channels
-      * List of Direct Messages 
-    * Main Container
-      * Header
-      * Messages
-      * Create Message
+    * Slack Component
+      * Sidebar
+        * List of Channels
+        * List of Direct Messages 
+      * Main Container
+        * Header
+        * Messages
+        * Create Message
 
 # React
     In react we create components
